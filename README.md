@@ -1,23 +1,28 @@
 ### Olá Meu nome é Kauã R. Mellato 🧒🖐
 
--Objetivo :
+
+
+<img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/6005/6005573.png"> Objetivo :
 Entrar no mercado de programação , atráves de uma empresa 
 
--Linguagens:
+##
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/4131/4131518.png">  Linguagens:
 
+<div display="inline-block">
+   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+##
 <div>
 <img height="196rem" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-S&theme=blue-green"> 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"> 
 </div>
-
-
 
 
 
