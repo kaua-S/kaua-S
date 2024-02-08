@@ -1,13 +1,15 @@
-### Olá Meu nome é Kauã R. Mellato 🧒🖐
+<h1> Olá Meu nome é Kauã R. Mellato 🧒🖐</h1> 
 
 
-
-<img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/6005/6005573.png"> Objetivo :
+<div>
+<h2><img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/6005/6005573.png"> Objetivo :</h2>
 Entrar no mercado de programação , atráves de uma empresa 
+   
+</div><br>
 
-##
 
-<img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/4131/4131518.png">  Linguagens:
+
+ <h2><img height="26rem" alt="" src="https://cdn-icons-png.flaticon.com/128/4131/4131518.png"> Linguagens:</h2> 
 
 <div display="inline-block">
    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +18,6 @@ Entrar no mercado de programação , atráves de uma empresa
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
 
 ##
 <div>
